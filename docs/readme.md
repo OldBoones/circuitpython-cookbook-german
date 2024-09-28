@@ -1,8 +1,22 @@
+##### Dies ist der Anfang eines Freizeitprojekts, ich bitte um Verständnis, dass noch nicht viel Inhalt existiert. Ich hoffe auf schnelles Wachstum.
+
+Gerne könnt Ihr Fragen stellen (auch spezifische, vielleicht kann ich ja zufällig helfen oder kenne die Lösung). 
+
+
+
+Angebote zur Mithilfe, Codeschnipsel und/oder eigene Erklärungen und Tutorials sind herzlich Willkommen. 
+
+
+
+Ihr habt gerade selbst eine Lösung gefunden oder kennt Euch aus? Immer her damit, gemeinsam bekommen wir vielleicht ein gutes Referenzwerk für Mikrocontroller und Circuitpython zusammen. 
+
 # 
 
 # Das CircuitPython Cookbook
 
-Das Circuitpython Cookbook soll (nicht nur) eine einfache und übersichtliche Einstiegshilfe sein. Deutsche Dokumentation ist schwer zu finden und viele Probleme, die sich gerade Einsteigern stellen, müssen mühselig zusammengesucht werden. Oft gibt es kurze Lösungen zu speziellen Problemen, die darauf bauen, dass man weiss man was tut. 
+Das Circuitpython Cookbook soll (nicht nur) eine einfache und übersichtliche Einstiegshilfe sein. Deutsche Dokumentation ist schwer zu finden und viele Probleme, die sich gerade Einsteigern stellen, müssen mühselig zusammengesucht werden. Oft gibt es kurze Lösungen zu speziellen Problemen, die darauf bauen, dass man weiss man was tut. Wir wollen dabei helfen dieses Wissen zu erlangen und mit dem Kochbuch, Codeschnipsel und Erklärungen anbieten, die (hoffentlich) die meisten allgemeinen Probleme löst. Ausserdem probieren wir verschiedene Hardware und Projekte aus, die viele konzeptionelle oder detaillierte Fragen lösen sollte. 
+
+Hier soll eine Lösungsstelle entstehen, weshalb Fragen und Anfragen gerne gesehen sind. 
 
 ## Hier findet Ihr
 
@@ -24,12 +38,40 @@ kommt hierhin
 
 - Die Programmiersprache Python und wie kann ich den Mikrocontroller steuern
 
-- Hello World in Mikrocontroller - Eine einfache Struktur/Schleifen: Lassen wir die LED blinken
+- Hello World in Mikrocontroller
+  
+  - Eine einfache Struktur/Schleifen
+  
+  - Lassen wir die LED blinken
 
 - Die ersten Rezepte - Wir spielen rum
 
 - Die Konsole, REPL und Ausgabe
 
-- Die erste Eingabe per Hardware - Sensoren, Buttons, Regler usw. 
+- Eingabe - Die erste Eingabe per Hardware und verschiedene Typen
+  
+  - Buttons, Taster und Schalter
+  
+  - Regler, Fader, Potentiometer
+  
+  - Sensoren, 
 
-##### Wir freuen uns natürlich über jeden Beitrag, jede Hilfe, Anmerkungen und Kritik. Bestenfalls wird dieses Repository eine zentrale Anlaufstelle für deutschsprachige Entwickler (obwohl wir auch gerne Übersetzungen hinzufügen sofern wir Übersetzer finden)
+- Displays - Die ersten Texte und Bilder
+  
+  - Displaytypen
+  
+  - Displayschnittstellen
+  
+  - Wie bringt man Text und Bilder auf das Display
+  
+  - Circuitpythons displayio - Eine Struktur für alle
+  
+  - Bilder anzeigen
+  
+  - Bilder erzeugen (ja, das ist was anderes)
+
+- Irgendwann - (Ganz) Einfache Schaltkreise
+
+- Irgendwann - Es geht weiter (Das füllen kann dauern, ist schliesslich viel Material)
+
+##### Wir freuen uns natürlich über jeden Beitrag, jede Hilfe, Anmerkungen und Kritik. Bestenfalls wird dieses Repository eine zentrale Anlaufstelle für deutschsprachige Entwickler (obwohl wir auch gerne Übersetzungen hinzufügen, sofern wir Übersetzer finden)
