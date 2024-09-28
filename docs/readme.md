@@ -26,7 +26,7 @@ Sammeln und interpretieren wir hier Informationen zu bestimmter Hardware, Mikroc
 
 - [Was ist eigentlich Circuitpython und wieso sollte Dich das interessieren?](start_here/wasistcircuitpython.md)
 
-- Circuitpython vs. Arduino IDE
+- [Circuitpython vs. Arduino IDE](start_here/cpvsarduino.md)
 
 - Erste Schritte mit Mikrocontrollern. Was sind PINS, GPIO, Analog und Digital
 
