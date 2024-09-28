@@ -2,11 +2,7 @@
 
 Gerne könnt Ihr Fragen stellen (auch spezifische, vielleicht kann ich ja zufällig helfen oder kenne die Lösung). 
 
-
-
 Angebote zur Mithilfe, Codeschnipsel und/oder eigene Erklärungen und Tutorials sind herzlich Willkommen. 
-
-
 
 Ihr habt gerade selbst eine Lösung gefunden oder kennt Euch aus? Immer her damit, gemeinsam bekommen wir vielleicht ein gutes Referenzwerk für Mikrocontroller und Circuitpython zusammen. 
 
@@ -28,9 +24,7 @@ Sammeln und interpretieren wir hier Informationen zu bestimmter Hardware, Mikroc
 
 ### Eine kurze (unvollständige) Liste der Inhalte
 
-kommt hierhin 
-
-- Was ist eigentlich Circuitpython und wieso sollte Dich das interessieren?
+- [Was ist eigentlich Circuitpython und wieso sollte Dich das interessieren?](start_here/wasistcircuitpython.md)
 
 - Circuitpython vs. Arduino IDE
 
