@@ -14,9 +14,10 @@ Suche auf der [Circuitpython Website](https://circuitpython.org/downloads) nach 
 
 <img title="" src="installationguide/downloads.png" alt="Downloadseite - Auswahl" width="545">
 
-> [!IMPORTANT]Es gibt verschiedene Architekturen (auch Familien genannt) von Mikrocontrollern, wie z.B. ESP32, Raspberry Pi, Arduino. Eine **<u>Plattform</u>** ist das gesamte System, inklusive der installierten Software (z.B. ESP32S3). Eine **<u>Architektur</u>** im technischen Sinn, ist nochmal was anderes aber hier nicht relevant (ToDo: Hier ein Link zu einer detaillierten Erklärung)
+> [!IMPORTANT]
+> Es gibt verschiedene Architekturen (auch Familien genannt) von Mikrocontrollern, wie z.B. ESP32, Raspberry Pi, Arduino. Eine **<u>Plattform</u>** ist das gesamte System, inklusive der installierten Software (z.B. ESP32S3). Eine **<u>Architektur</u>** im technischen Sinn, ist nochmal was anderes aber hier nicht relevant (ToDo: Hier ein Link zu einer detaillierten Erklärung)
 
-Benutzt Du die Bezeichnung des Herstellers, findest Du den Richtigen. Sollte das nicht klappen, schicke gerne eine Nachricht
+> Benutzt Du die Bezeichnung des Herstellers, findest Du den Richtigen. Sollte das nicht klappen, schicke gerne eine Nachricht
 
 #### 2. Lade die Software runter
 
