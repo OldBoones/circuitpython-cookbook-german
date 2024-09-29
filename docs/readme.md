@@ -28,6 +28,8 @@ Sammeln und interpretieren wir hier Informationen zu bestimmter Hardware, Mikroc
 
 - [Circuitpython vs. Arduino IDE](start_here/cpvsarduino.md)
 
+- Welche Mikrocontroller sind mit Circuitpython kompatibel?
+
 - Erste Schritte mit Mikrocontrollern. Was sind PINS, GPIO, Analog und Digital
 
 - Die Programmiersprache Python und wie kann ich den Mikrocontroller steuern

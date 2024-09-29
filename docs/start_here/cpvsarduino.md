@@ -3,7 +3,7 @@
 Die Arduino IDE (Inzwischen in der Version 2) ist der Standard in der Entwicklung von und mit Mikrocontrollern. Inzwischen nehmen zwar auch Weitere (Wie VSCode mit PlatformIO) mehr und mehr Platz ein, doch noch kommt man um Arduino IDE nicht herum wenn man professionellen und direkten Zugriff auf die Funktionen des Mikrocontrollers haben möchte. 
 
 > [!NOTE]  
-> Ein vielversprechendes Projekt ist "[Embedded Swift]([Swift.org - Get Started with Embedded Swift on ARM and RISC-V Microcontrollers](https://www.swift.org/blog/embedded-swift-examples/))", jedoch noch ziemlich am Anfang und recht begrenzt in der Unterstützung. Man sollte es im Auge behalten
+> Ein vielversprechendes Projekt ist [Embedded Swift]([Swift.org - Get Started with Embedded Swift on ARM and RISC-V Microcontrollers](https://www.swift.org/blog/embedded-swift-examples/)), jedoch noch ziemlich am Anfang und recht begrenzt in der Unterstützung. Man sollte es im Auge behalten
 
 #### Möglichkeiten und Funktionsweise/-umfang sind quasi unendlich
 
