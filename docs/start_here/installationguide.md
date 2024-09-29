@@ -10,7 +10,7 @@ Suche auf der [Circuitpython Website](https://circuitpython.org/downloads) nach 
 
 > Das Suchfeld (direkt unter "Downloads") lässt Dich leicht die richtige Seite finden. 
 > 
-> Wenn Du nicht sicher bist was genau Dein Modell ist, dann gucke noch einmal auf die Beschreibung des Herstellers oder gebe den Herstellernamen ein.
+> Wenn Du nicht sicher bist was genau Dein Modell ist, dann gucke noch einmal auf die Beschreibung des Herstellers oder gib den Namen des Herstellers ein und gucke, ob Du Dein Modell an der Abbildung erkennst.
 
 <img src="installationguide/2024-09-29-02-33-32-image.png" title="" alt="" width="545">
 
