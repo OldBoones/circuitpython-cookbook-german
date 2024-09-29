@@ -7,7 +7,6 @@ Je nach Mikrocontroller-Familie gibt es verschiedene Wege wie man Circuitpython 
 Suche auf der [Circuitpython Website](https://circuitpython.org/downloads) nach dem Modell Deines Mikrocontrollers
 
 > [!TIP]
-
 > Das Suchfeld (direkt unter "Downloads") lässt Dich leicht die richtige Seite finden. 
 > 
 > Wenn Du nicht sicher bist was genau Dein Modell ist, dann gucke noch einmal auf die Beschreibung des Herstellers oder gib den Namen des Herstellers ein und gucke, ob Du Dein Modell an der Abbildung erkennst.
