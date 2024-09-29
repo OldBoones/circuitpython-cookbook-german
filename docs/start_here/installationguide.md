@@ -28,8 +28,8 @@ Je nach Modell variiert die rechte Seite:
 
 - Zuerst steht ganz oben die aktuellste (getestete/stabile) Version, die für Dein Modell zur Verfügung steht. 
 
-- > [!NOTE]
-  > Hier im Bild ist die aktuellste Version 9.1.4. Es gibt auch die Möglichkeit ältere Versionen herunterzuladen und auch neuere, aber beta Software (das heisst Software in Arbeit, die noch auf Fehler untersucht wird).
+[!NOTE]
+> Hier im Bild ist die aktuellste Version 9.1.4. Es gibt auch die Möglichkeit ältere Versionen herunterzuladen und auch neuere, aber beta Software (das heisst Software in Arbeit, die noch auf Fehler untersucht wird).
   > 
   > In manchen Fällen kann es Sinn machen auf eines von beidem zurückzugreifen, es wird allerdings nicht empfohlen und kann unvorhergesehene Probleme bereiten
 
@@ -37,9 +37,8 @@ Je nach Modell variiert die rechte Seite:
 
 - Klicke nun auf "Download .UF2 NOW" und warte bis der Download abgeschlossen ist. 
 
-- > [!IMPORTANT]  
-  
-  > Solltest Du alle 3 Optionen haben, kannst Du Circuitpython unter Umständen auch direkt aus dem Browser installieren. Mehr dazu in der [Installationsanweisung](install_circuitpython.md)
+[!IMPORTANT]
+Solltest Du alle 3 Optionen haben, kannst Du Circuitpython unter Umständen auch direkt aus dem Browser installieren. Mehr dazu in der [Installationsanweisung](install_circuitpython.md)
 
 #### Nach dem Download
 
