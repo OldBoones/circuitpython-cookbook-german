@@ -29,4 +29,4 @@ Wissen lohnt sich immer aber Dieses schafft einen tiefen Einblick in die (elektr
 
 #### Also:
 
-Circuitpython ist hervorragend für den Einstieg und/oder Experimente und verschiedene, nicht zu komplexe oder Ressourcen(Zeit, Speicher, Energie, uvm.) abhängige Projekte. ArduinoIDE ist die Lösung für das Meiste was Mikrocontroller können, jedoch bezahlt man mit den eigenen Ressourcen oder sehr viel Wissen. 
+Circuitpython ist hervorragend für den Einstieg und/oder Experimente und verschiedene, nicht zu komplexe oder Ressourcen(Zeit, Speicher, Energie, uvm.) abhängige Projekte. ArduinoIDE ist die Lösung wenn man alles aus den Geräten holen will, was Mikrocontroller können. Jedoch bezahlt man mit den eigenen Ressourcen und/oder sehr viel Wissen. 
