@@ -12,7 +12,7 @@ Suche auf der [Circuitpython Website](https://circuitpython.org/downloads) nach 
 > 
 > Wenn Du nicht sicher bist was genau Dein Modell ist, dann gucke noch einmal auf die Beschreibung des Herstellers oder gib den Namen des Herstellers ein und gucke, ob Du Dein Modell an der Abbildung erkennst.
 
-<img title="" src="file:///Users/hr/Documents/Entwicklung/circuitpython-cookbook/docs/start_here/installationguide/downloads.png" alt="" width="545">
+<img title="" src="installationguide/downloads.png" alt="Downloadseite - Auswahl" width="545">
 
 > [!IMPORTANT]
 
@@ -24,7 +24,7 @@ Suche auf der [Circuitpython Website](https://circuitpython.org/downloads) nach 
 
 Wenn Du Dein Modell gefunden hast, klicke es an und es müsste sich eine Seite öffnen die so ähnlich aussieht wie im Bild (hier drunter). Mit dem Bild links kannst Du noch einmal prüfen ob Deine Auswahl auch dem entspricht was Du vor Dir liegen hast.
 
-<img title="" src="file:///Users/hr/Documents/Entwicklung/circuitpython-cookbook/docs/start_here/installationguide/download_esp.jpg" alt="download_esp.jpg" width="552">
+<img title="" src="installationguide/download_esp.jpg" alt="Download Modellsoftware" width="545">
 
 Je nach Modell variiert die rechte Seite: 
 
