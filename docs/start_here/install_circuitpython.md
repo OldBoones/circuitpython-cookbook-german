@@ -4,7 +4,7 @@
 
 Deinen **Mikrocontroller** und ein passendes **USB-Kabel**, einen Computer mit **Windows, Linux oder MacOS** und die **passende Circuitpython-Software**
 
->[!INFO]
+> [!INFO]
 > 
 > Nicht jedes USB-Kabel ist geeignet. Es gibt welche, die intern nur so verdrahtet sind, dass sie ausschliesslich zum Laden geeignet sind (d.h. nur Strom übertragen). Gehe sicher, dass Dein Kabel eines ist das auch Daten übertragen kann. Wenn Du nicht sicher bist, probiere zum Beispiel Dein Handy mit dem Computer zu verbinden und dann siehst Du, ob es vom Computer erkannt wird.
 
