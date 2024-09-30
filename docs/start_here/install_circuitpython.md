@@ -4,6 +4,8 @@ Je nach Modell gibt es verschiedene Varianten Circuitpython zu installieren. Hie
 
 
 
-#### Der Boot-Modus
+### Der Boot-Modus
 
 Jede Installation von hardwarenaher Firmware
+
+
