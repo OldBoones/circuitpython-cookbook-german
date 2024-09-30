@@ -4,6 +4,6 @@ Der Hersteller von Circuitpython, [Adafruit](https://www.adafruit.com), bietet a
 
 Wir sparen uns hier die Wiederholung der sich stets erweiternden Liste
 
-Bis auf vereinzelte Nischenprodukte dürfte jeder gängige Mikrocontroller unterstützt werden. 
+Bis auf vereinzelte Nischenprodukte dürfte jeder gängige Mikrocontroller (zumindest aus den Familien ESP32, RaspberryPi und Arduino) unterstützt werden. 
 
 [Hinweise und Hilfe bei der Installation gibt es hier](installationguide.md)
