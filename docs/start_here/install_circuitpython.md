@@ -26,7 +26,7 @@ Du kannst Circuitpython-Code mit jedem Programm schreiben das einfache Textdatei
 
 - **Dateiverwaltung** und **Starten/Stoppen** von Programmen auf Knopfdruck
 
-- > [!TIP]
+> [!TIP]
   > 
   > **<u>Thonny bietet Dir darüber hinaus die Möglichkeit, Circuitpython auf einige Mikrocontroller automatisch zu installieren</u>** inklusive Download und dergleichen!
   > 
