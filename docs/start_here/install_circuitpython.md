@@ -10,7 +10,7 @@ Deinen **Mikrocontroller** und ein passendes **USB-Kabel**, einen Computer mit *
 
 > [!IMPORTANT]
 > 
-> Nicht jedes USB-Kabel ist geeignet. Es gibt welche, die intern ausschliesslich zum Laden verdrahtet und geeignet sind (d.h. nur Strom übertragen wird aber keine Daten). Gehe sicher, dass Dein Kabel eines ist das auch Daten übertragen kann. Wenn Du nicht sicher bist, probiere zum Beispiel Dein Handy mit dem Computer zu verbinden und dann siehst Du, ob es vom Computer erkannt wird.
+> Nicht jedes USB-Kabel ist geeignet. Es gibt welche, die intern ausschliesslich zum Laden verdrahtet und geeignet sind (d.h. nur Strom übertragen, aber keine Daten). Gehe sicher, dass Dein Kabel eines ist das auch Daten übertragen kann. Wenn Du nicht sicher bist, probiere zum Beispiel Dein Handy mit dem Computer zu verbinden und dann siehst Du, ob es vom Computer erkannt wird.
 
 ### Thonny hilft Dir!
 
