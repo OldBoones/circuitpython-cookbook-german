@@ -42,7 +42,7 @@ Jede Installation von hardwarenaher Firmware, Arduino-Sketches und eben Circuitp
 
 #### Ein paar Beispiele/Normalerweise
 
-###### ESP32 - Modelle (z.B. ESP32C2, ESP32C3, ESP32S3, ESP32C6)
+##### ESP32 - Modelle (z.B. ESP32C2, ESP32C3, ESP32S3, ESP32C6)
 
 > [!TIP]
 > 
