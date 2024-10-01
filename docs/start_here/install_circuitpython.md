@@ -36,7 +36,7 @@ Du kannst Circuitpython-Code mit jedem Programm schreiben das einfache Textdatei
 
 Jede Installation von hardwarenaher Firmware, Arduino-Sketches und eben Circuitpython benötigt einen speziellen Modus in den Du den Mikrocontroller versetzen musst, bevor Du eben jene Installation vornehmen kannst. Je nach Familie und Modell gibt es verschiedene Wege in diesen Modus zu bekommen (der oft Boot- oder DFU-Modus genannt wird). Zu Deinem MCU (so nennen wir den Mikrocontroller in Zukunft) gibt es eine Anleitung wie das gemacht wird und auch auf der Download-Seite steht es im Detail, nur halt auf Englisch
 
-> [!INFO]
+> [!NOTE]
 > 
 > Es gibt verschiedene Controller und Modi, die so eingerichtet sind, dass das nicht nötig ist. Wir gehen hier aber den sicheren Weg. Sollte Circuitpython bereits installiert sein, kannst Du diese Schritte auslassen oder lieber doch machen, um die aktuellste Version zu installieren. 
 
