@@ -30,7 +30,7 @@ Du kannst Circuitpython-Code mit jedem Programm schreiben das einfache Textdatei
   > 
   > **<u>Thonny bietet Dir darüber hinaus die Möglichkeit, Circuitpython auf einige Mikrocontroller automatisch zu installieren</u>** inklusive Download und dergleichen!
   > 
-  > Wie das geht kannst Du hier nochmal im Einzelnen nachlesen (TODO: Link hinzufügen mit bebilderter Installationsanleitung von MCUs mit Thonny)
+  > Wie das geht kannst Du hier nochmal im Einzelnen nachlesen: [Installation von Circuitpython mit Thonny](thonny_instcp.md)
 
 ### Der Boot-Modus
 
