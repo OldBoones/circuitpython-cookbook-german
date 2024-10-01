@@ -27,10 +27,10 @@ Du kannst Circuitpython-Code mit jedem Programm schreiben das einfache Textdatei
 - **Dateiverwaltung** und **Starten/Stoppen** von Programmen auf Knopfdruck
 
 > [!TIP]
-  > 
-  > **<u>Thonny bietet Dir darüber hinaus die Möglichkeit, Circuitpython auf einige Mikrocontroller automatisch zu installieren</u>** inklusive Download und dergleichen!
-  > 
-  > Wie das geht kannst Du hier nochmal im Einzelnen nachlesen: [Installation von Circuitpython mit Thonny](thonny_instcp.md)
+> 
+> **<u>Thonny bietet Dir darüber hinaus die Möglichkeit, Circuitpython auf einige Mikrocontroller automatisch zu installieren</u>** inklusive Download und dergleichen!
+> 
+> Wie das geht kannst Du hier nochmal im Einzelnen nachlesen: [Installation von Circuitpython mit Thonny](thonny_instcp.md)
 
 ### Der Boot-Modus
 
@@ -40,9 +40,11 @@ Jede Installation von hardwarenaher Firmware, Arduino-Sketches und eben Circuitp
 > 
 > Es gibt verschiedene Controller und Modi, die so eingerichtet sind, dass das nicht nötig ist. Wir gehen hier aber den sicheren Weg. Sollte Circuitpython bereits installiert sein, kannst Du diese Schritte auslassen oder lieber doch machen, um die aktuellste Version zu installieren. 
 
-#### Ein paar Beispiele/Normalerweise
+---
 
-##### ESP32 - Modelle (z.B. ESP32C2, ESP32C3, ESP32S3, ESP32C6)
+
+
+#### Normalerweise funktioniert es so
 
 > [!TIP]
 > 
@@ -52,11 +54,18 @@ Jede Installation von hardwarenaher Firmware, Arduino-Sketches und eben Circuitp
 
 1. Schliesse den Mikrocontroller mit dem USB-Kabel am Computer an
 
-2. Meistens haben die ESP32 (mind.) 2 Knöpfe: "BOOT" oder "0" und "RESET" oder "RST". Halte den BOOT (oder 0) Knopf gedrückt und drücke zusätzlich den RESET (oder RST) Knopf. 
+2. Bringe Deinen Mikrocontroller in den Bootloader-Modus. In der Tabelle unten ist eine Übersicht wie das in den meisten Fällen erreicht werden kann. Im Zweifel solltest Du gucken welche Anweisungen der Hersteller dafür angibt
+   
+   | Wenn der Controller                                                         | Dann probiere                                                                                                | z.B. bei den Modellen                                                           |
+   | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------- |
+   | <sub>nur einen Knopf hat</sub>                                              | <sub>Halte den RESET Knopf für mindestens 2 Sekunden gedrückt</sub>                                          | ATOMS3, ATOM Matrix, ESPLite, M5Stick                                           |
+   | <sub>einen *BOOT* und einen *RESET* Knopf hat (oder *0* und *RST*)</sub>    | <sub>Halte *BOOT(0)* gedrückt und drücke dann zusätzlich *RESET(RST)</sub>*                                  | <sub>XIAO RP2040, ESP32C3, ESP32S2, ESP32C6, etc. </sub>                        |
+   | <sub>ein NRF52840 ist</sub>                                                 | <sub>Drücke den RESET Knopf 2x in schneller Folge (Doppelklick)</sub>                                        | <sub> NRF52840 z.B. Seeed XIAO und Waveshare</sub>                              |
+   | <sub>nur den RESET Knopf hat, das festhalten aber nichts gebracht hat</sub> | <sub>Ziehe das USB-Kabel ab, halte den Knopf gedrückt, stecke  das Kabel ein, lasse dann den Knopf los</sub> | <sub>z.b. bei vielen Pi-Pico Modellen  oder XIAO ESP32S3 Sense, ATMega168</sub> |
 
-3. Wenn Dein MCU einen UF2-Bootloader hat, sollte Dein Computer kurz darauf ein neues Laufwerk finden, ganz so wie wenn Du einen USB-Stick einsteckst. 
+3. Wenn Dein MCU einen UF2-Bootloader hat, sollte Dein Computer kurz darauf ein neues Laufwerk finden, ganz so wie wenn Du einen USB-Stick einsteckst.
 
-4. Ziehe nun die UF2-Datei (die Datei vom Download oben) einfach auf das Laufwerk was erschienen ist. 
+4. Ziehe nun die UF2-Datei (die Datei vom Download oben) einfach auf das Laufwerk was erschienen ist.
 
 5. Warte einen Moment! Nein.. ernsthaft.. Warte! Je nach Gerät kann es ein paar Momente dauern, aber wenn Du es unterbrichst kann es schwierig werden. 
 
