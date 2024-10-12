@@ -44,7 +44,7 @@ Jede Installation von hardwarenaher Firmware, Arduino-Sketches und eben Circuitp
 
 
 
-#### Normalerweise funktioniert es so
+### Normalerweise funktioniert es so
 
 > [!TIP]
 > 
